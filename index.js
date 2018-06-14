@@ -16,5 +16,5 @@ app.use(async (ctx) => {
 })
 
 app.listen(8080, () => {
-    console.log("statrt")
+    console.log("start")
 })
